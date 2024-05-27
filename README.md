@@ -3,12 +3,23 @@
 
 This project presents a prototype of an automated robotic arm using Arduino technology and servo motors for basic object detection and manipulation tasks. The arm is capable of detecting objects and performing simple interactions automatically.
 
+## Object Detection and Sorting
+
+- **Color-Based Detection:**
+  - The project utilizes color-based detection techniques to identify objects based on their color properties.
+- **Size Comparison:**
+  - In cases where multiple objects share the same color, the system compares their sizes.
+- **Prioritization by Size:**
+  - Objects with larger sizes are given priority and detected accordingly.
+- **Sorting Algorithm:**
+  - Once objects are identified and prioritized, a sorting algorithm is employed to sort them accordingly.
+
 ## Hardware Setup
 
 - **Arduino Board:** Main controller
 - **Servo Motors:** Enable arm movements
-          - Servo MG996R
-          - Servo SG90
+   - Servo Motor MG996R 
+  -  Servo motor SG90
 
 ## Software Overview
 
