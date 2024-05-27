@@ -1,4 +1,5 @@
-# Automated Robotic Arm Prototype
+# Robotic Arm for Object Detection and Sorting
+
 
 This project presents a prototype of an automated robotic arm using Arduino technology and servo motors for basic object detection and manipulation tasks. The arm is capable of detecting objects and performing simple interactions automatically.
 
