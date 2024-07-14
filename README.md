@@ -55,8 +55,10 @@ These are some screenshots of our project :
 4. **Assistive Technologies:** Improved support for mobility impairments
 
 
-## Contact
+## 📧 Contact
 
-For more information , please contact:
-- **Name:** [Shantanu Khadse](https://github.com/ShantanuKH)
-- **Email:** shantanukhadse784@gmail.com
+### Shantanu Khadse
+  
+- GitHub: [ShantanuKH](https://github.com/ShantanuKH)
+- Email: shantanukhadse784@gmail.com  
+- LinkedIn: [shantanukhadse](https://www.linkedin.com/in/shantanu-khadse-a62585230/)  
